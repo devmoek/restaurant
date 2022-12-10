@@ -1,0 +1,22 @@
+{
+  "name": "food",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devmoek/restaurant.git"
+  },
+  "author": "Michael Myers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devmoek/restaurant/issues"
+  },
+  "homepage": "https://github.com/devmoek/restaurant#readme",
+  "devDependencies": {
+    "json-server": "^0.17.1"
+  }
+}
