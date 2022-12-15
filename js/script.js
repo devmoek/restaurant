@@ -48,7 +48,7 @@ window.addEventListener("DOMContentLoaded", () => {
         if (t <= 0) {
             days = 0;
             hours = 0;
-            mintues = 0;
+            minutes = 0;
             seconds = 0;
         } else {
             days = Math.floor(t / (1000 * 60 * 60 * 24)),
@@ -311,7 +311,6 @@ window.addEventListener("DOMContentLoaded", () => {
         }, 4000);
     }
 
-    fetch('http://localhost:3000/menu')
-        .then(data => data.json())
-        // .then(res => console.log(res)); 
+    // Slider
+    
 });
