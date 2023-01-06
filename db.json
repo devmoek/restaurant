@@ -3,22 +3,22 @@
     {
       "img": "img/tabs/vegy.jpg",
       "altimg": "vegy",
-      "title": "Меню 'Фитнес'",
-      "descr": "Меню 'Фитнес' - это новый подход к приготовлению блюд: больше свежих овощей и фруктов. Продукт активных и здоровых людей. Это абсолютно новый продукт с оптимальной ценой и высоким качеством!",
+      "title": "'Fitness' Menu",
+      "descr": "Menu 'Fitness' - is a new approach to cooking: more fresh vegetables and fruits. Product of active and healthy people. It is a brand new product with optimal price and high quality!",
       "price": 9
     },
     {
       "img": "img/tabs/post.jpg",
       "altimg": "post",
-      "title": "Меню 'Постное'",
-      "descr": "Меню 'Постное' - это тщательный подбор ингредиентов: полное отсутствие продуктов животного происхождения, молоко из миндаля, овса, кокоса или гречки, правильное количество белков за счет тофу и импортных вегетарианских стейков.",
+      "title": "'Lean' Menu",
+      "descr": "The 'Lean' menu is a careful selection of ingredients: complete absence of animal products, milk from almonds, oats, coconut or buckwheat, the right amount of protein due to tofu and imported vegetarian steaks.",
       "price": 14
     },
     {
       "img": "img/tabs/elite.jpg",
       "altimg": "elite",
-      "title": "Меню 'Премиум'",
-      "descr": "В меню 'Премиум' мы используем не только красивый дизайн упаковки, но и качественное исполнение блюд. Красная рыба, морепродукты, фрукты - ресторанное меню без похода в ресторан!",
+      "title": "'Premium' Menu ",
+      "descr": "In the 'Premium' menu we use not only beautiful packaging design, but also quality dishes. Red fish, seafood, fruit - restaurant menu without going to restaurant!",
       "price": 21
     }
   ],

@@ -185,7 +185,7 @@ window.addEventListener("DOMContentLoaded", () => {
                 <div class="menu__item-divider"></div>
                 <div class="menu__item-price">
                     <div class="menu__item-cost">Price:</div>
-                    <div class="menu__item-total"><span>${ this.price }</span> грн/день</div>
+                    <div class="menu__item-total"><span>${ this.price }</span> UAH/day</div>
                 </div>
             `;
 
@@ -226,7 +226,7 @@ window.addEventListener("DOMContentLoaded", () => {
             <div class="menu__item-divider"></div>
             <div class="menu__item-price">
                 <div class="menu__item-cost">Price:</div>
-                <div class="menu__item-total"><span>${ price }</span> грн/день</div>
+                <div class="menu__item-total"><span>${ price }</span> UAH/day</div>
             </div>  
             `;
 
