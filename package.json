@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/devmoek/restaurant#readme",
   "devDependencies": {
-    "json-server": "^0.17.1"
+    "json-server": "^0.17.1",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
   }
 }
